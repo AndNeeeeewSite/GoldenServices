@@ -75,7 +75,7 @@
 
 
 .galery-list-item-list-item-img{
-    background-image: url('../img/Circle-1.svg');
+    background-image: url("../img/Circle-1.svg");
     background-size: 70px 69px;
 background-repeat: no-repeat;
 background-position: 101px 0px;
